@@ -1,0 +1,8 @@
+{
+  "name": "Vesper",
+  "description": "Modern dark-theme cinema and series streaming interface with hero showcase, trending rows, genre filtering, live search, and interactive trailer preview popup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
